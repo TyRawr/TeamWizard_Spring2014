@@ -1,0 +1,8 @@
+TeamWizard/.DS_Store
+TeamWizard/Library
+TeamWizard/Temp
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
