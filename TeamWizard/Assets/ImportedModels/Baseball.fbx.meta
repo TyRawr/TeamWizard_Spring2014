@@ -1,29 +1,21 @@
 fileFormatVersion: 2
-guid: 1d643e3422d597d4d9a0b3829452da08
+guid: c1db6c4b9ce926d47976074414fbce4f
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Camera
-    100004: Camera.target
-    100006: mesh01_1
-    100008: Model
-    100010: skpC0_1
+    100002: mesh01_1
+    100004: Mesh1
+    100006: Model
+    100008: skpC0_1
     400000: //RootNode
-    400002: Camera
-    400004: Camera.target
-    400006: mesh01_1
-    400008: Model
-    400010: skpC0_1
-    2300000: mesh01_1
-    2300002: Model
-    2300004: skpC0_1
-    3300000: mesh01_1
-    3300002: Model
-    3300004: skpC0_1
-    4300000: skpC0_1
-    4300002: mesh01_1
-    4300004: Model
+    400002: mesh01_1
+    400004: Mesh1
+    400006: Model
+    400008: skpC0_1
+    2300000: Mesh1
+    3300000: Mesh1
+    4300000: Mesh1
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -43,7 +35,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: .100000001
+    globalScale: .00999999978
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
