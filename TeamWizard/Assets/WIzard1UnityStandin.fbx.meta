@@ -1,0 +1,106 @@
+fileFormatVersion: 2
+guid: 91612bdfcc48448cb8c337a8e4da2bd9
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: WisardTwoBodyFinal:Group1
+    100002: //RootNode
+    100004: WizardTwoEyesFinal:Group35153
+    100006: WizardTwoEyesFinal:Group45100
+    100008: WizardTwoHeadFinal:Group1
+    400000: WisardTwoBodyFinal:Group1
+    400002: //RootNode
+    400004: WizardTwoEyesFinal:Group35153
+    400006: WizardTwoEyesFinal:Group45100
+    400008: WizardTwoHeadFinal:Group1
+    2300000: WisardTwoBodyFinal:Group1
+    2300002: WizardTwoEyesFinal:Group35153
+    2300004: WizardTwoEyesFinal:Group45100
+    2300006: WizardTwoHeadFinal:Group1
+    3300000: WisardTwoBodyFinal:Group1
+    3300002: WizardTwoEyesFinal:Group35153
+    3300004: WizardTwoEyesFinal:Group45100
+    3300006: WizardTwoHeadFinal:Group1
+    4300000: WisardTwoBodyFinal:Group1
+    4300002: WizardTwoHeadFinal:Group1
+    4300004: WizardTwoEyesFinal:Group35153
+    4300006: WizardTwoEyesFinal:Group45100
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton:
+    - name: WIzard1UnityStandin(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WisardTwoBodyFinal:Group1
+      position: {x: 0, y: .0531829186, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WizardTwoEyesFinal:Group35153
+      position: {x: 0, y: .0530250631, z: -1.88366485e-05}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WizardTwoEyesFinal:Group45100
+      position: {x: -9.81132762e-05, y: .0529479906, z: -3.29763316e-05}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WizardTwoHeadFinal:Group1
+      position: {x: 0, y: .0529529229, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 

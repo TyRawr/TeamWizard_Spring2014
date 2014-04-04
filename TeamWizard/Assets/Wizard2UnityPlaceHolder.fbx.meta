@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 2052fbe2194926a40b60f3953602796c
 ModelImporter:
-  serializedVersion: 15
+  serializedVersion: 16
   fileIDToRecycleName:
     100000: baseModel:Group1
     100002: brows:Group1
@@ -155,7 +155,7 @@ ModelImporter:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     optimizeGameObjects: 0
-    animationCompression: 1
+    animationCompression: 3
     animationRotationError: .5
     animationPositionError: .5
     animationScaleError: .5
@@ -186,8 +186,726 @@ ModelImporter:
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
-    human: []
-    skeleton: []
+    human:
+    - boneName: hair:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hair:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Wizard2UnityPlaceHolder(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: baseModel:Group1
+      position: {x: 0, y: .128821939, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: brows:Group1
+      position: {x: 0, y: .128946871, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: brows:Group2
+      position: {x: 0, y: .128946871, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: eyes_wiz2:Group7440
+      position: {x: 0, y: .128490716, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: eyes_wiz2:Group43453
+      position: {x: 0, y: .128490716, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:Group1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:Group2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:Group3
+      position: {x: 0, y: .128586188, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:Hips
+      position: {x: 0, y: .811888933, z: 0}
+      rotation: {x: -5.56169971e-06, y: -2.2321442e-06, z: .00023688584, w: 1}
+      scale: {x: 12.2154226, y: 12.2154226, z: 12.2154236}
+      transformModified: 1
+    - name: hair:LeftUpLeg
+      position: {x: -.00668668747, y: -.00523709785, z: -.000795136672}
+      rotation: {x: .000393484166, y: .0124362782, z: .999922276, w: -.000851711142}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftLeg
+      position: {x: 2.63378937e-11, y: .029501332, z: 4.04336764e-12}
+      rotation: {x: -.0338975303, y: .000473650231, z: -.00258823554, w: .999421835}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftFoot
+      position: {x: 2.27571451e-11, y: .0248439275, z: -3.24864961e-11}
+      rotation: {x: .519151092, y: -.0106472708, z: -.00960936118, w: .854562223}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftToeBase
+      position: {x: -2.60079848e-12, y: .0099901706, z: -1.88342161e-10}
+      rotation: {x: .264002591, y: .155462161, z: -.0431601852, w: .950931847}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightUpLeg
+      position: {x: .00668668747, y: -.00523709785, z: -.000481449359}
+      rotation: {x: -.000378661905, y: .0107638724, z: .999940932, w: .00148474553}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightLeg
+      position: {x: 1.44680266e-11, y: .0295248851, z: 8.52269436e-11}
+      rotation: {x: -.0365631022, y: -.000452429842, z: .0025947087, w: .999327898}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightFoot
+      position: {x: 3.80256764e-11, y: .0248585939, z: 1.41222395e-10}
+      rotation: {x: .526331425, y: .010610343, z: .00980037171, w: .850156784}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightToeBase
+      position: {x: -8.38107321e-14, y: .0101345107, z: 3.78861317e-11}
+      rotation: {x: .260741532, y: -.163173601, z: .0447634794, w: .950465381}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:Spine
+      position: {x: -0, y: .00943342224, z: .000111271882}
+      rotation: {x: .00590299908, y: 8.35087121e-07, z: -.000236894906, w: .999982536}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:Spine1
+      position: {x: -0, y: .0110064242, z: -3.81358053e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:Spine2
+      position: {x: -0, y: .0125787705, z: -1.2133583e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftShoulder
+      position: {x: -.00607390143, y: .0121103991, z: 2.18263467e-05}
+      rotation: {x: .574261427, y: -.413270444, z: .572218418, w: .414725691}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftArm
+      position: {x: 1.2578005e-12, y: .0128730275, z: 9.21363957e-11}
+      rotation: {x: -.133279517, y: -.00234183646, z: .0174115319, w: .990922809}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftForeArm
+      position: {x: -1.41653451e-11, y: .0263952129, z: 7.37172042e-12}
+      rotation: {x: -.0291508604, y: .000921919651, z: -.0315972641, w: .999075115}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftHand
+      position: {x: 4.01644343e-11, y: .0256099924, z: -5.73242755e-12}
+      rotation: {x: .00476518041, y: .00912674051, z: .0638239533, w: .997908115}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftHandIndex1
+      position: {x: .00339380768, y: .0114793871, z: .000109885739}
+      rotation: {x: -.0100011183, y: .000279922504, z: -.0279769376, w: .999558508}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftHandIndex2
+      position: {x: -3.23537552e-06, y: .00193520915, z: 9.25066187e-12}
+      rotation: {x: .00836737826, y: -.000667913177, z: -.0192148462, w: .999780178}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftHandIndex3
+      position: {x: -8.24355553e-08, y: .00181119645, z: -7.05622193e-13}
+      rotation: {x: -2.4115613e-07, y: -4.571924e-05, z: .000975966977, w: .999999523}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftHandMiddle1
+      position: {x: .00116429222, y: .0122957416, z: -3.9513372e-05}
+      rotation: {x: -.0273377635, y: .000799166737, z: -.0292099155, w: .999199092}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftHandMiddle2
+      position: {x: -1.02904505e-06, y: .00182883954, z: -3.89034594e-12}
+      rotation: {x: .0257075373, y: -.000540197012, z: -.0176984537, w: .999512672}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftHandMiddle3
+      position: {x: 1.3119386e-06, y: .00174014072, z: 1.82105004e-12}
+      rotation: {x: .0194641557, y: 1.47246064e-08, z: -2.52377064e-10, w: .999810576}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftHandPinky1
+      position: {x: -.00334257004, y: .0114312228, z: .000114017312}
+      rotation: {x: -.00191450946, y: -.00621199468, z: -.0471631922, w: .998866022}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftHandPinky2
+      position: {x: 1.69156365e-07, y: .00147459994, z: -3.80952171e-12}
+      rotation: {x: -1.98209975e-07, y: 9.08403235e-05, z: -.00123554585, w: .999999225}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftHandPinky3
+      position: {x: -3.26473059e-06, y: .00121405744, z: 3.91977987e-12}
+      rotation: {x: -3.8186721e-07, y: 3.8678023e-05, z: .00273853517, w: .999996245}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftHandRing1
+      position: {x: -.00121552974, y: .0123190498, z: -3.45799235e-05}
+      rotation: {x: -.00164928497, y: -.000596879225, z: -.047472775, w: .998871028}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftHandRing2
+      position: {x: -8.40873327e-07, y: .00166477263, z: 1.63563729e-11}
+      rotation: {x: 1.69486412e-07, y: 2.08022211e-05, z: .000300228625, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftHandRing3
+      position: {x: 1.88035827e-07, y: .00160459441, z: 3.4700064e-12}
+      rotation: {x: -5.78461723e-08, y: 4.69233819e-05, z: .000437855808, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftHandThumb1
+      position: {x: .0029063886, y: .00328939827, z: .000663886603}
+      rotation: {x: .0693399236, y: -.00676870113, z: -.299101681, w: .951674521}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftHandThumb2
+      position: {x: .000701427169, y: .00348154036, z: 1.93497839e-11}
+      rotation: {x: .000358990481, y: .00331009575, z: -.090524748, w: .99588865}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:LeftHandThumb3
+      position: {x: 4.02844053e-05, y: .00230335491, z: -9.29133021e-11}
+      rotation: {x: .00118556083, y: -.00587188592, z: -.214832962, w: .976632476}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:Neck
+      position: {x: -0, y: .0141511075, z: 3.66171364e-11}
+      rotation: {x: -.00589744095, y: -5.06887474e-21, z: 2.98939124e-23, w: .999982595}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:Head
+      position: {x: -0, y: .00436207745, z: .000597423466}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightShoulder
+      position: {x: .00607390143, y: .0121104512, z: 2.63153088e-05}
+      rotation: {x: .574471414, y: .413119614, z: -.572006166, w: .41487816}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightArm
+      position: {x: -1.1374829e-12, y: .0128730275, z: 9.21378876e-11}
+      rotation: {x: -.13328889, y: .00228318037, z: -.0169738829, w: .990929246}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightForeArm
+      position: {x: -3.33821061e-11, y: .02639395, z: 1.71219653e-11}
+      rotation: {x: -.0291156098, y: -.000876738923, z: .0300848857, w: .999122858}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightHand
+      position: {x: 2.91252677e-12, y: .025608778, z: -6.34063461e-12}
+      rotation: {x: .00581946503, y: -.0109428447, z: -.0624438711, w: .997971535}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightHandIndex1
+      position: {x: -.00337557844, y: .0114331003, z: .000128588159}
+      rotation: {x: -.0204956159, y: -.00101781159, z: .049589619, w: .998558879}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightHandIndex2
+      position: {x: 1.46159709e-06, y: .00192099949, z: -6.61065864e-12}
+      rotation: {x: .017889088, y: -9.17589932e-05, z: -.00307879131, w: .999835253}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightHandIndex3
+      position: {x: 2.12540144e-07, y: .0018328476, z: 2.32756034e-13}
+      rotation: {x: -2.01401619e-07, y: 2.95029768e-05, z: -.000659585232, w: .999999821}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightHandMiddle1
+      position: {x: -.00113028148, y: .0121039348, z: -6.40802828e-05}
+      rotation: {x: -.0190732554, y: -.000922968495, z: .0483253412, w: .99864912}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightHandMiddle2
+      position: {x: 1.35244159e-06, y: .00192450255, z: 5.1402437e-13}
+      rotation: {x: .0164634995, y: -5.7045454e-05, z: -.00180980109, w: .99986285}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightHandMiddle3
+      position: {x: -1.2999385e-07, y: .00177622295, z: -3.76232384e-14}
+      rotation: {x: -.0299176816, y: 2.83674662e-09, z: -1.0426993e-07, w: .999552369}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightHandPinky1
+      position: {x: .00330260419, y: .01148069, z: 9.39984602e-05}
+      rotation: {x: -.00276070414, y: .00262660068, z: .0454774164, w: .998958111}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightHandPinky2
+      position: {x: -2.71886779e-06, y: .00143826124, z: -5.4770408e-13}
+      rotation: {x: 1.59772583e-07, y: 7.76318266e-05, z: .00104323076, w: .999999464}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightHandPinky3
+      position: {x: 1.47417734e-09, y: .00120898033, z: 4.98612696e-12}
+      rotation: {x: 1.78113282e-07, y: -8.00438502e-05, z: .00156739517, w: .999998808}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightHandRing1
+      position: {x: .00120325491, y: .0123101072, z: -2.47248281e-05}
+      rotation: {x: -.00270566228, y: .00149342092, z: .0459220186, w: .998940229}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightHandRing2
+      position: {x: -1.75714911e-06, y: .00166290894, z: -6.26808805e-12}
+      rotation: {x: 7.09127406e-08, y: 3.17391823e-05, z: .000601410982, w: .999999821}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightHandRing3
+      position: {x: 1.53523061e-07, y: .00159624009, z: 5.46229728e-13}
+      rotation: {x: 1.25667285e-07, y: -4.81753814e-05, z: .000828385586, w: .999999642}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightHandThumb1
+      position: {x: -.00297625037, y: .00334536727, z: .000614355959}
+      rotation: {x: .0686095059, y: .00877460651, z: .302370042, w: .950677693}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightHandThumb2
+      position: {x: -.000684186642, y: .00355037418, z: 7.43026057e-11}
+      rotation: {x: .000327335671, y: -.00388364145, z: .106065392, w: .994351566}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: hair:RightHandThumb3
+      position: {x: 4.96143693e-05, y: .00225302926, z: 6.46713932e-11}
+      rotation: {x: -.00285917264, y: -.0133827003, z: .187171921, w: .982231855}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: WIZARD2body:Group1
+      position: {x: 0, y: .128092393, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
     armTwist: .5
     foreArmTwist: .5
     upperLegTwist: .5
@@ -196,6 +914,8 @@ ModelImporter:
     legStretch: .0500000007
     feetSpacing: 0
     rootMotionBoneName: 
-  lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 478ef749d0d8c4c599304604695a80cf,
+    type: 3}
+  animationType: 3
+  additionalBone: 0
   userData: 
