@@ -1,0 +1,2177 @@
+-----FACEPLUS LOG FILE------
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.6716
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.509753
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.6716
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8921
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.504822
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8921
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8544
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.589375
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8544
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8461
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.545126
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8461
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8968
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.53535
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8968
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.7932
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.489419
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.7932
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8452
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.527342
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8452
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8544
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.512277
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8544
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8535
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.542732
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8535
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8848
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.526453
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8848
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8627
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.529651
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8627
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.9032
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.476569
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.9032
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8755
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.554147
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8755
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.9032
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.527559
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.9032
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8866
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.542207
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8866
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8801
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.525999
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8801
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 11.7096
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.548617
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 11.7096
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.859
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.445514
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.859
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8746
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.514946
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8746
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8839
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.525431
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8839
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8599
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.555658
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8599
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8931
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.532232
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8931
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8701
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.542474
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8701
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8516
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.546387
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8516
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8912
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.56205
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8912
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8636
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.585413
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8636
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8792
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.565314
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8792
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8755
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.543117
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8755
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.9014
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.530627
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.9014
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8801
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.534202
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8801
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8507
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.524316
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8507
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8673
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.603018
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8673
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8737
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.494628
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 12.8737
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(
+Info:	PLATFORM_NAME: AMD Accelerated Parallel Processing
+VERSION: OpenCL 1.2 AMD-APP (1348.5)
+VENDOR: Advanced Micro Devices, Inc.
+PROFILE: FULL_PROFILE
+	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 4.22317
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 	DEVICE: AMD Phenom(tm) II X6 1090T Processor
+	TYPE: CPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 6
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 1024
+	MAX WORK ITEMS SIZES: 1024X1024X1024
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (sse2)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 2048 MB
+	GLOBAL MEM CACHE SIZE: 64 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 128
+	MAX CLOCK FREQUENCY: 3214
+	TIMER RESOLUTION: 318
+	PERFORMANCE SCORE: 0.642862
+cl_amd_device_attribute_query, cl_amd_fp64, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_device_fission, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_fp64, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+Running on device 	DEVICE: Barts
+	TYPE: GPU
+	VENDOR ID: 1002
+	IMAGE SUPPORT: yes
+	MAX COMPUTE UNITS: 12
+	MAX WORK ITEMS DIMENSIONS: 3
+	MAX WORK GROUP SIZE: 256
+	MAX WORK ITEMS SIZES: 256X256X256
+	DEVICE VERSION: OpenCL 1.2 AMD-APP (1348.5)
+	DRIVER VERSION: 1348.5 (VM)
+	OPENCL VERSION: 1.2( OpenCL C 1.2  )
+	GLOBAL MEM SIZE: 1024 MB
+	GLOBAL MEM CACHE SIZE: 0 KB
+	CONSTANT BUFFER SIZE:64 KB
+	LOCAL MEM SIZE: 32 KB
+	MEMORY ALIGNMENT: 256
+	MAX CLOCK FREQUENCY: 775
+	TIMER RESOLUTION: 1
+	PERFORMANCE SCORE: 4.22317
+cl_amd_device_attribute_query, cl_amd_image2d_from_buffer_read_only, cl_amd_media_ops, cl_amd_media_ops2, cl_amd_popcnt, cl_amd_printf, cl_amd_vec3, cl_ext_atomic_counters_32, cl_khr_3d_image_writes, cl_khr_byte_addressable_store, cl_khr_d3d10_sharing, cl_khr_dx9_media_sharing, cl_khr_gl_sharing, cl_khr_global_int32_base_atomics, cl_khr_global_int32_extended_atomics, cl_khr_local_int32_base_atomics, cl_khr_local_int32_extended_atomics, 
+faceplus_init catched exception: no webcam :-(

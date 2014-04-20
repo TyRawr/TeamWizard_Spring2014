@@ -1,0 +1,66 @@
+# Exported from Fuse 0.9.3.1
+
+newmtl fuse_material
+illum 4
+Kd 0.90 0.77 0.64
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+map_Ka fuse_material.png
+map_Kd fuse_material.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Untitled_Shoes_diffuse.png
+map_Ks Untitled_Shoes_specular.png
+bump Untitled_Shoes_normal.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Untitled_Bottom_diffuse.png
+map_Ks Untitled_Bottom_specular.png
+bump Untitled_Bottom_normal.png
+
+newmtl Hair
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Untitled_Hair_diffuse.png
+map_Ks Untitled_Hair_specular.png
+bump Untitled_Hair_normal.png
+
+newmtl BodyParts
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Untitled_BodyParts_diffuse.png
+map_Ks Untitled_BodyParts_specular.png
+bump Untitled_BodyParts_normal.png
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Untitled_Top_diffuse.png
+map_Ks Untitled_Top_specular.png
+bump Untitled_Top_normal.png
+
