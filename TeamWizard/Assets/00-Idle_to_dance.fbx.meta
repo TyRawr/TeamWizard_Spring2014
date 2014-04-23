@@ -61,7 +61,7 @@ ModelImporter:
     400052: BVH:RightToe_End
     400054: BVH:RightWrist
     400056: BVH:RightWrist_End
-    7400000: Take 001
+    7400000: Dancing
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -79,7 +79,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     clipAnimations:
     - serializedVersion: 16
-      name: Take 001
+      name: Dancing
       takeName: Take 001
       firstFrame: 1
       lastFrame: 250
