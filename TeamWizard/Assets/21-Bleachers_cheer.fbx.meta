@@ -62,6 +62,7 @@ ModelImporter:
     400054: BVH:RightWrist
     400056: BVH:RightWrist_End
     7400000: Bleacher CHeer
+    7400002: Catcher
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -83,6 +84,90 @@ ModelImporter:
       takeName: Take 001
       firstFrame: 1
       lastFrame: 163
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BVH:Hips
+        weight: 1
+      - path: BVH:Hips/BVH:Chest
+        weight: 1
+      - path: BVH:Hips/BVH:Chest/BVH:Chest2
+        weight: 1
+      - path: BVH:Hips/BVH:Chest/BVH:Chest2/BVH:Chest3
+        weight: 1
+      - path: BVH:Hips/BVH:Chest/BVH:Chest2/BVH:Chest3/BVH:Chest4
+        weight: 1
+      - path: BVH:Hips/BVH:Chest/BVH:Chest2/BVH:Chest3/BVH:Chest4/BVH:LeftCollar
+        weight: 1
+      - path: BVH:Hips/BVH:Chest/BVH:Chest2/BVH:Chest3/BVH:Chest4/BVH:LeftCollar/BVH:LeftShoulder
+        weight: 1
+      - path: BVH:Hips/BVH:Chest/BVH:Chest2/BVH:Chest3/BVH:Chest4/BVH:LeftCollar/BVH:LeftShoulder/BVH:LeftElbow
+        weight: 1
+      - path: BVH:Hips/BVH:Chest/BVH:Chest2/BVH:Chest3/BVH:Chest4/BVH:LeftCollar/BVH:LeftShoulder/BVH:LeftElbow/BVH:LeftWrist
+        weight: 1
+      - path: BVH:Hips/BVH:Chest/BVH:Chest2/BVH:Chest3/BVH:Chest4/BVH:LeftCollar/BVH:LeftShoulder/BVH:LeftElbow/BVH:LeftWrist/BVH:LeftWrist_End
+        weight: 0
+      - path: BVH:Hips/BVH:Chest/BVH:Chest2/BVH:Chest3/BVH:Chest4/BVH:Neck
+        weight: 1
+      - path: BVH:Hips/BVH:Chest/BVH:Chest2/BVH:Chest3/BVH:Chest4/BVH:Neck/BVH:Head
+        weight: 1
+      - path: BVH:Hips/BVH:Chest/BVH:Chest2/BVH:Chest3/BVH:Chest4/BVH:Neck/BVH:Head/BVH:Head_End
+        weight: 0
+      - path: BVH:Hips/BVH:Chest/BVH:Chest2/BVH:Chest3/BVH:Chest4/BVH:RightCollar
+        weight: 1
+      - path: BVH:Hips/BVH:Chest/BVH:Chest2/BVH:Chest3/BVH:Chest4/BVH:RightCollar/BVH:RightShoulder
+        weight: 1
+      - path: BVH:Hips/BVH:Chest/BVH:Chest2/BVH:Chest3/BVH:Chest4/BVH:RightCollar/BVH:RightShoulder/BVH:RightElbow
+        weight: 1
+      - path: BVH:Hips/BVH:Chest/BVH:Chest2/BVH:Chest3/BVH:Chest4/BVH:RightCollar/BVH:RightShoulder/BVH:RightElbow/BVH:RightWrist
+        weight: 1
+      - path: BVH:Hips/BVH:Chest/BVH:Chest2/BVH:Chest3/BVH:Chest4/BVH:RightCollar/BVH:RightShoulder/BVH:RightElbow/BVH:RightWrist/BVH:RightWrist_End
+        weight: 0
+      - path: BVH:Hips/BVH:LeftHip
+        weight: 1
+      - path: BVH:Hips/BVH:LeftHip/BVH:LeftKnee
+        weight: 1
+      - path: BVH:Hips/BVH:LeftHip/BVH:LeftKnee/BVH:LeftAnkle
+        weight: 1
+      - path: BVH:Hips/BVH:LeftHip/BVH:LeftKnee/BVH:LeftAnkle/BVH:LeftToe
+        weight: 1
+      - path: BVH:Hips/BVH:LeftHip/BVH:LeftKnee/BVH:LeftAnkle/BVH:LeftToe/BVH:LeftToe_End
+        weight: 0
+      - path: BVH:Hips/BVH:RightHip
+        weight: 1
+      - path: BVH:Hips/BVH:RightHip/BVH:RightKnee
+        weight: 1
+      - path: BVH:Hips/BVH:RightHip/BVH:RightKnee/BVH:RightAnkle
+        weight: 1
+      - path: BVH:Hips/BVH:RightHip/BVH:RightKnee/BVH:RightAnkle/BVH:RightToe
+        weight: 1
+      - path: BVH:Hips/BVH:RightHip/BVH:RightKnee/BVH:RightAnkle/BVH:RightToe/BVH:RightToe_End
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Catcher
+      takeName: Take 001
+      firstFrame: 132
+      lastFrame: 152
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
