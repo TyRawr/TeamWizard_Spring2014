@@ -61,7 +61,7 @@ ModelImporter:
     400052: BVH:RightToe_End
     400054: BVH:RightWrist
     400056: BVH:RightWrist_End
-    7400000: Take 001
+    7400000: pitcher_throw
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -79,10 +79,10 @@ ModelImporter:
     extraExposedTransformPaths: []
     clipAnimations:
     - serializedVersion: 16
-      name: Take 001
+      name: pitcher_throw
       takeName: Take 001
-      firstFrame: 1
-      lastFrame: 201
+      firstFrame: 69
+      lastFrame: 120
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
